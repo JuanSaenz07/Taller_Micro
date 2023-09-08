@@ -1,0 +1,95 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F1939 ]
+[d frameptr 6 ]
+"10 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"8 C:\Users\ASUS\MPLABXProjects\Nueva Carpeta\TUTORIASCLASE\ejercicio_05.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"7 C:\Users\ASUS\MPLABXProjects\Nueva Carpeta\TUTORIASCLASE\ejercicio_05.X\secuencias.c
+[v _secuencia_0 secuencia_0 `(v  1 e 1 0 ]
+"14
+[v _secuencia_1 secuencia_1 `(v  1 e 1 0 ]
+"21
+[v _secuencia_2 secuencia_2 `(v  1 e 1 0 ]
+"32
+[v _secuencia_3 secuencia_3 `(v  1 e 1 0 ]
+"39
+[v _secuencia_4 secuencia_4 `(v  1 e 1 0 ]
+"46
+[v _secuencia_5 secuencia_5 `(v  1 e 1 0 ]
+"53
+[v _secuencia_6 secuencia_6 `(v  1 e 1 0 ]
+"65
+[v _secuencia_7 secuencia_7 `(v  1 e 1 0 ]
+"78
+[v _secuencia_8 secuencia_8 `(v  1 e 1 0 ]
+"553 C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8\pic\include\proc\pic16f1939.h
+[v _PORTC PORTC `VEuc  1 e 1 @14 ]
+"1437
+[v _TRISC TRISC `VEuc  1 e 1 @142 ]
+"1499
+[v _TRISD TRISD `VEuc  1 e 1 @143 ]
+"2543
+[v _LATD LATD `VEuc  1 e 1 @271 ]
+"3444
+[v _ANSELD ANSELD `VEuc  1 e 1 @399 ]
+"6 C:\Users\ASUS\MPLABXProjects\Nueva Carpeta\TUTORIASCLASE\ejercicio_05.X\main.c
+[v _secuencia secuencia `i  1 e 2 0 ]
+"8
+[v _main main `(v  1 e 1 0 ]
+{
+"43
+} 0
+"78 C:\Users\ASUS\MPLABXProjects\Nueva Carpeta\TUTORIASCLASE\ejercicio_05.X\secuencias.c
+[v _secuencia_8 secuencia_8 `(v  1 e 1 0 ]
+{
+"89
+} 0
+"65
+[v _secuencia_7 secuencia_7 `(v  1 e 1 0 ]
+{
+"76
+} 0
+"53
+[v _secuencia_6 secuencia_6 `(v  1 e 1 0 ]
+{
+"63
+} 0
+"46
+[v _secuencia_5 secuencia_5 `(v  1 e 1 0 ]
+{
+"51
+} 0
+"39
+[v _secuencia_4 secuencia_4 `(v  1 e 1 0 ]
+{
+"44
+} 0
+"32
+[v _secuencia_3 secuencia_3 `(v  1 e 1 0 ]
+{
+"37
+} 0
+"21
+[v _secuencia_2 secuencia_2 `(v  1 e 1 0 ]
+{
+"30
+} 0
+"14
+[v _secuencia_1 secuencia_1 `(v  1 e 1 0 ]
+{
+"19
+} 0
+"7
+[v _secuencia_0 secuencia_0 `(v  1 e 1 0 ]
+{
+"12
+} 0

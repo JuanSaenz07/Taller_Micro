@@ -1,0 +1,69 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PIC14E ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F1939 ]
+[d frameptr 6 ]
+"10 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"4 C:\Users\ASUS\MPLABXProjects\Nueva Carpeta\TUTORIASCLASE\Ejercicio_10.X\main.c
+[v _ejercicio10 ejercicio10 `(v  1 e 1 0 ]
+"22
+[v _main main `(v  1 e 1 0 ]
+[s S67 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 RC3 1 0 :1:3 
+`uc 1 RC4 1 0 :1:4 
+`uc 1 RC5 1 0 :1:5 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+"570 C:/Program Files/Microchip/MPLABX/v6.10/packs/Microchip/PIC12-16F1xxx_DFP/1.4.213/xc8\pic\include\proc\pic16f1939.h
+[u S76 . 1 `S67 1 . 1 0 ]
+[v _PORTCbits PORTCbits `VES76  1 e 1 @14 ]
+[s S25 . 1 `uc 1 RD0 1 0 :1:0 
+`uc 1 RD1 1 0 :1:1 
+`uc 1 RD2 1 0 :1:2 
+`uc 1 RD3 1 0 :1:3 
+`uc 1 RD4 1 0 :1:4 
+`uc 1 RD5 1 0 :1:5 
+`uc 1 RD6 1 0 :1:6 
+`uc 1 RD7 1 0 :1:7 
+]
+"632
+[u S34 . 1 `S25 1 . 1 0 ]
+[v _PORTDbits PORTDbits `VES34  1 e 1 @15 ]
+"1437
+[v _TRISC TRISC `VEuc  1 e 1 @142 ]
+"1499
+[v _TRISD TRISD `VEuc  1 e 1 @143 ]
+[s S46 . 1 `uc 1 LATC0 1 0 :1:0 
+`uc 1 LATC1 1 0 :1:1 
+`uc 1 LATC2 1 0 :1:2 
+`uc 1 LATC3 1 0 :1:3 
+`uc 1 LATC4 1 0 :1:4 
+`uc 1 LATC5 1 0 :1:5 
+`uc 1 LATC6 1 0 :1:6 
+`uc 1 LATC7 1 0 :1:7 
+]
+"2498
+[u S55 . 1 `S46 1 . 1 0 ]
+[v _LATCbits LATCbits `VES55  1 e 1 @270 ]
+"3444
+[v _ANSELD ANSELD `VEuc  1 e 1 @399 ]
+"22 C:\Users\ASUS\MPLABXProjects\Nueva Carpeta\TUTORIASCLASE\Ejercicio_10.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"37
+} 0
+"4
+[v _ejercicio10 ejercicio10 `(v  1 e 1 0 ]
+{
+"21
+} 0
